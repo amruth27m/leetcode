@@ -1,0 +1,10 @@
+body{
+  padding: 30px;
+  padding-top: 10px;
+}
+#problem-count{
+  position: relative;
+  top: -42px;
+  left: -183px;
+  float: right;
+}
